@@ -6,6 +6,7 @@
         <br> I’m a Master Student in Computer Science at <b><a href="https://www.unibo.it/"> Alma Mater Studiorum in Bologna</a></b>.
         <br>
     </samp>
+    <br>
     <img align="middle"
         src="https://github-readme-stats.vercel.app/api?username=kode-git&show_icons=true&hide_title=true&count_private=true" />
      <br>
