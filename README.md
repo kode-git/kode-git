@@ -3,7 +3,7 @@
     <samp>
         Hello there! I'm <b>Mario Sessa</b>.
         <br> <img align="middle" width="200px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" />
-        <br> I’m a Master Student to <b><a href="https://www.unibo.it/"> Alma Mater Studiorum in Bologna</a></b>.
+        <br> I’m a Master Student in Computer Science at <b><a href="https://www.unibo.it/"> Alma Mater Studiorum in Bologna</a></b>.
         <br>
     </samp>
     <img align="middle"
@@ -20,7 +20,7 @@
 
 <p align="center">
 <samp>
-As Master Student in Computer Science, my interests is referred to the studying, enginering, implementing and testing on Software in new enviroments like Artificial Intelligence, Distributed Ledges (Blockchain, Ad-hoc distributed networks) or
+As a student, my interests is referred to the studying, enginering, implementing and testing on Software in new enviroments like Artificial Intelligence, Distributed Ledges (Blockchain, Ad-hoc distributed networks) or
 multiple paradigms computational problems with the objective to obtain the state-of-art of the linked applications.
 </samp>
 </p>
