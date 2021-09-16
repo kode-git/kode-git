@@ -21,7 +21,7 @@
 
 <p align="center">
 <samp>
-As a student, my interests is referred to the studying, enginering, implementing and testing on Software in new enviroments like Artificial Intelligence, Distributed Ledges (Blockchain, Ad-hoc distributed networks) or
+As a student, my interests is referred to the studying, engineering, implementing and testing on Software in new enviroments like Artificial Intelligence, Distributed Ledges (Blockchain, Ad-hoc distributed networks) or
 multiple paradigms computational problems with the objective to obtain the state-of-art of the linked applications.
 </samp>
 </p>
