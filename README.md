@@ -7,9 +7,6 @@
         <br>
     </samp>
     <br>
-    <img align="middle"
-        src="https://github-readme-stats.vercel.app/api?username=kode-git&show_icons=true&hide_title=true&count_private=true" />
-     <br>
 
 
 
