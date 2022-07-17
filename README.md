@@ -18,7 +18,7 @@
 
 <p align="center">
 <samp>
-As a student, my interests is referred to the studying, engineering, implementing and testing on Software in some new enviroments like Artificial Intelligence, Internet of Things, Data Science.
+I am currently a master student in the Alma Mater Studiorum, Bologna. My professional interests are computer science fields like Artificial Intelligence, Internet of Things and Data Science.
 </samp>
 </p>
 <br><br>
