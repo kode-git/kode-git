@@ -18,7 +18,7 @@
 
 <p align="center">
 <samp>
-I am currently a master student in the Alma Mater Studiorum, Bologna. My professional interests are computer science fields like Artificial Intelligence, Internet of Things and Data Science.
+My professional interests are computer science fields like Artificial Intelligence, Internet of Things and Data Science.
 </samp>
 </p>
 <br><br>
