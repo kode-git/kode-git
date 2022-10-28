@@ -7,15 +7,6 @@
         <br>
     </samp>
     <br>
-
-
-
-<p align="center">
-  <a href="#">
-      <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=kode-gitf&repo=kode-git&countColor=%237B1E7A" />
-   </a>
-</p>
-
 <p align="center">
 <samp>
 My professional interests are computer science fields like Artificial Intelligence, Internet of Things and Data Science.
