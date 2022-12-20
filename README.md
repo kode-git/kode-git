@@ -3,7 +3,7 @@
     <samp>
         Hello there! I'm <b>Mario Sessa</b>.
         <br> <img align="middle" style="width: 250px" src="image.png" />
-        <br> I’m a Master Student in Computer Science at <b><a href="https://www.unibo.it/"> Alma Mater Studiorum in Bologna</a></b>.
+        <br> I’m a Graduated Master Student in Computer Science at <b><a href="https://www.unibo.it/"> Alma Mater Studiorum in Bologna</a></b>.
         <br>
     </samp>
     <br>
