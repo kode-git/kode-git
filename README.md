@@ -3,14 +3,11 @@
     <samp>
         Hello there! I'm <b>Mario Sessa</b>.
         <br> <img align="middle" style="width: 250px" src="image.png" />
-        <br> I’m a Software Engineer for /dev/null in Bologna</a></b>.
+        <br> Master's degree graduate at Alma Mater Studiorum of Bologna. Professional profile @mase-git</a></b>.
         <br>
     </samp>
     <br>
 <p align="center">
-<samp>
-My professional interests are computer science fields like Artificial Intelligence, Internet of Things and Data Science.
-</samp>
 </p>
 <br><br>
 
