@@ -3,7 +3,7 @@
     <samp>
         Hello there! I'm <b>Mario Sessa</b>.
         <br> <img align="middle" style="width: 250px" src="image.png" />
-        <br>  am a dedicated professional focused on continuous learning and optimizing processes to enhance product quality. Specializing in network infrastructure and platform integration in the IoT field, I apply best practices in product management to ensure robust, efficient, and high-quality outcomes. I am committed to delivering innovative solutions and maintaining excellence in every project I undertake.
+        <br>  I am a dedicated professional engineer focused on continuous learning and optimizing processes to enhance product quality. Specializing in network infrastructure and platform integration in the IoT field, I apply best practices in product management to ensure robust, efficient, and high-quality outcomes. I am committed to delivering innovative solutions and maintaining excellence in every project I undertake.
 </a></b>
         <br>
     </samp>
